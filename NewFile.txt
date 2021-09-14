@@ -5,3 +5,5 @@ testing git add .
 =======
 added this comment in git hub
 >>>>>>> 383a792cbf4cfb01fcf28d077db682c5d9f96631
+
+skip the staging area
